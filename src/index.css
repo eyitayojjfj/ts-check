@@ -1,0 +1,28 @@
+.name{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 260px;
+}
+.para{
+  font-size: 60px;
+  padding-right: 10px;
+}
+.btn{
+  background-color: azure;
+  color: black;
+  border: 8px light black;
+  border-radius: 6px;
+  font-size: 35px;
+}
+.btn2{
+  background-color: azure;
+  color: black;
+  border: 8px light black;
+  border-radius: 6px;
+  font-size: 35px;
+  margin-left: 20px;
+}
+body{
+  background-color: teal;
+}
